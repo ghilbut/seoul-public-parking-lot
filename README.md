@@ -198,3 +198,8 @@ $ aws --profile spps s3 sync --acl public-read ./dist s3://spps.ghilbut.net
 #### 결과페이지
 
 https://spps.ghilbut.net/
+
+### Infrastructure model
+![Infrastructure main model](.infragenie/infrastructure_main_model.svg)
+
+---
